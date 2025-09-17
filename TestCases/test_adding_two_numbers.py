@@ -2,4 +2,4 @@ x=10
 y=20
 z=x+y
 print(z)
-print("helllo boys")
+print("iam feroz")
